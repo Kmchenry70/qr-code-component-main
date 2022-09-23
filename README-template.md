@@ -29,8 +29,8 @@ This is a screenshot of my solution.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Kmchenry70/qr-code-component-main)
+- Live Site URL: [Live site](https://your-live-site-url.com)
 
 
 ## My process
@@ -92,7 +92,7 @@ I want to continue to get more fluent in HTML and CSS.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github - [Kmchenry70](https://github.com/Kmchenry70)
+- Frontend Mentor - [@Kmchenry70](https://www.frontendmentor.io/profile/Kmchenry70)
 
 
