@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
-* {
+
+body {
     background-color: hsl(212, 45%, 89%);
 }
 
 .qr-container {
     background-color: hsl(0, 0%, 100%);
-    width: 18%;
-    border-radius: 15px;
+    width: 14.15rem;
+    max-width: 14.15rem;
+    border-radius: .94rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -17,12 +19,18 @@
     transform: translate(-50%, -50%);
 }
 
+@media (min-width: 375px) {
+   .qr-container{
+        width: 60%
+   } 
+}
+
 .qrcode {
-    margin: 10px;
-    margin-top: 14px;
-    height: 205px;
-    width: 210px;
-    border-radius: 10px;
+    margin: .56rem;
+    margin-top: .62rem;
+    height: 12.81rem;
+    width: 13.12rem;
+    border-radius: .62rem;
 }
 
 p {
@@ -34,14 +42,16 @@ p {
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     text-align: center;
-    margin: 7px 13px 7px 13px;
-    font-size: 15px;
+    margin: .438rem .813rem .438rem .813rem;
+    font-size: 1rem;
+    font-family: 'Outfit', sans-serif;
 }
 
 .bottom-text {
     font-weight: 400;
     color: hsl(220, 15%, 55%);
     text-align: center;
-    margin: 7px 15px 30px 15px;
-    font-size: 13px;
+    margin: .44rem .94rem 1.88rem .94rem;
+    font-size: .70rem;
 }
+
